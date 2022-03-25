@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextsyg/tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextsyg/tests/issues"
+  },
+  "homepage": "https://github.com/alextsyg/tests#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
